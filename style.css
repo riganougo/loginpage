@@ -1,0 +1,45 @@
+body{
+    background-color: blueviolet;
+}
+#form{
+    background-color:rgb(60, 211, 161) ;
+    width: 25%;
+    margin: 120px auto;
+    padding: 50px;
+    box-shadow: 10px 10px 5px rgb(82,11,77);
+    border-radius: 6px;
+}
+#btn{
+    color: white;
+    background-color: rgb(184, 117, 247);
+    padding:10px ;
+    font-size: large;
+    border-radius: 10px;
+}
+@media screen and (max-width:700px){
+    #form{
+        width:65%;
+        padding: 40px;
+    }
+}
+
+
+.signup-container {
+    background-color: rgb(60, 211, 161);
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 10px 8px rgba(0, 0, 0, 0.1);
+    width: 25%;
+    height: 700px;
+
+    margin: 120px auto;
+}
+#sbtn{
+    color: white;
+    background-color: rgb(184, 117, 247);
+    padding:10px ;
+    font-size: large;
+    border-radius: 10px;
+}
+
+
